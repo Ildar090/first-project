@@ -1,0 +1,12 @@
+.main{
+	width: 100px;
+	height: 200px;
+	border-radius: 20px;
+	background-color: red;
+	box-shadow: 30px 10px 40px blue;
+	opacity: 0.2
+
+}
+.main:hover{
+	background-color: green;
+}
